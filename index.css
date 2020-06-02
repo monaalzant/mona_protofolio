@@ -1,3 +1,4 @@
+
 * {
   margin: 0;
   padding: 0;
@@ -19,15 +20,18 @@ html,body{
 }
 #skills ul li{
   list-style-type: none;
-  padding:12px 0px 10px 0px ;
+  padding:15px 0px 10px 0px ;
+  margin-bottom: 10px;
   text-align:center;
  /* z-index:1;*/
   margin-left:20px;
-  border:1px solid #fff;
+  border:none;
   border-radius:50%;
   width:60px;
   height:60px;
   background:#90A4AE;
+  font-weight:bold;
+  color:black
   
 }
 
